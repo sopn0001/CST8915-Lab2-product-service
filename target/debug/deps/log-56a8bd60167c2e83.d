@@ -1,0 +1,10 @@
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/log-56a8bd60167c2e83.d: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/liblog-56a8bd60167c2e83.rlib: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/liblog-56a8bd60167c2e83.rmeta: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs
+
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/lib.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/macros.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/serde.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.22/src/__private_api.rs:

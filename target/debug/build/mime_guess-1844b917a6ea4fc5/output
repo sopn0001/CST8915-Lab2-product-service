@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/build/mime_guess-1844b917a6ea4fc5/out/mime_types_generated.rs

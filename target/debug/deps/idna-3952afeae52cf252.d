@@ -1,0 +1,10 @@
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/idna-3952afeae52cf252.d: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/punycode.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/libidna-3952afeae52cf252.rlib: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/punycode.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/libidna-3952afeae52cf252.rmeta: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/punycode.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46_mapping_table.rs
+
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/lib.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/punycode.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/idna-0.5.0/src/uts46_mapping_table.rs:

@@ -1,0 +1,10 @@
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/lock_api-7309f3e287e30a75.d: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/liblock_api-7309f3e287e30a75.rlib: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/liblock_api-7309f3e287e30a75.rmeta: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/lib.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/mutex.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/remutex.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lock_api-0.4.12/src/rwlock.rs:

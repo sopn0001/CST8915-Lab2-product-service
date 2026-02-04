@@ -1,0 +1,10 @@
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/spin-59321545c027770c.d: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex/spin.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/relax.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/libspin-59321545c027770c.rlib: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex/spin.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/relax.rs
+
+/Users/idrissop/Documents/Algonquin College/Cloud Development and Operations/Full Stack Cloud Native Development/26W_CST8915_Lab1/product-service/target/debug/deps/libspin-59321545c027770c.rmeta: /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/lib.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex/spin.rs /Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/relax.rs
+
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/lib.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/mutex/spin.rs:
+/Users/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/spin-0.9.8/src/relax.rs:
