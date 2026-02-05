@@ -1,1 +1,1 @@
-/Users/idrissop/Documents/Algonquin\ College/Cloud\ Development\ and\ Operations/Full\ Stack\ Cloud\ Native\ Development/26W_CST8915_Lab1/product-service/target/debug/product-service: /Users/idrissop/Documents/Algonquin\ College/Cloud\ Development\ and\ Operations/Full\ Stack\ Cloud\ Native\ Development/26W_CST8915_Lab1/product-service/src/main.rs
+/home/idrissop/CST8915-Lab2-product-service/target/debug/product-service: /home/idrissop/CST8915-Lab2-product-service/src/main.rs

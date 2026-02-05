@@ -1,0 +1,11 @@
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/socket2-03a17f78ab767387.d: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/libsocket2-03a17f78ab767387.rlib: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/libsocket2-03a17f78ab767387.rmeta: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs:

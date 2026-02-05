@@ -1,0 +1,11 @@
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/ppv_lite86-25a2b1affb34228c.d: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/libppv_lite86-25a2b1affb34228c.rlib: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/idrissop/CST8915-Lab2-product-service/target/debug/deps/libppv_lite86-25a2b1affb34228c.rmeta: /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs /home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs
+
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/lib.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/soft.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/types.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/mod.rs:
+/home/idrissop/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ppv-lite86-0.2.20/src/x86_64/sse2.rs:
